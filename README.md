@@ -204,3 +204,7 @@ MIT License - see LICENSE file for details.
 ## Contributing
 
 Contributions welcome! Please test on different MacBook models and report compatibility.
+
+## Support
+
+If this project saved you time, you can support my work via [PayPal](https://paypal.me/dacookingsenpai).
